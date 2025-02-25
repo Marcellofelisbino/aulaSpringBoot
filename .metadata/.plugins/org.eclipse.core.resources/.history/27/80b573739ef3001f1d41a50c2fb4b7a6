@@ -1,0 +1,5 @@
+package teste.teste.entidade;
+
+public class Usuario {
+
+}
