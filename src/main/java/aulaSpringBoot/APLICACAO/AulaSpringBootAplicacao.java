@@ -1,13 +1,13 @@
-package aulaSpringBoot;
+package aulaSpringBoot.APLICACAO;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AulaSpringBootApplication {
+public class AulaSpringBootAplicacao {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AulaSpringBootApplication.class, args);
+		SpringApplication.run(AulaSpringBootAplicacao.class, args);
 	}
 
 }
