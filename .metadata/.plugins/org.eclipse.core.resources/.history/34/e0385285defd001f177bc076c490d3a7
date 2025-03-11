@@ -1,0 +1,28 @@
+package teste.entidade.enums;
+
+public enum StatusOrdemDePedido {
+	
+	AGUARDANDO_PAGAMENTO(1),
+	PAGO(2),
+	ENVIADO(3),
+	RECEBIDO(4),
+	CANCELADO(5);
+
+	private int codigo;
+	
+	private StatusOrdemDePedido(int codigo) {
+		this.codigo = codigo;
+	}
+	
+	public int getCodigo() {
+		return codigo;
+	}
+	
+	public static StatusOrdemDePedido valueof(int codigo) {
+		for (StatusOrdemDePedido value : StatusOrdemDePedido.values()) {
+			if (value.getCodigo() == codigo)
+				return value;
+		}
+		throw new IllegalArgumentException("Status da ordem de pedido invalido");
+	}
+}

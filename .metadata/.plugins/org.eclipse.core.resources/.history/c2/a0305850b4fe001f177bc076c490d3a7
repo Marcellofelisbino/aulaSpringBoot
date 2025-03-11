@@ -1,0 +1,54 @@
+package teste.configuracao;
+
+import java.time.Instant;
+import java.util.Arrays;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+import teste.entidade.Categoria;
+import teste.entidade.OrdemDePedido;
+import teste.entidade.Usuario;
+import teste.entidade.enums.StatusOrdemDePedido;
+import teste.repositorios.RepositorioOrdemDePedido;
+import teste.repositorios.RepositorioUsuario;
+
+@Configuration
+@Profile("test")
+public class ConfiguracaoTest implements CommandLineRunner{ 
+// CommandLIneRunner pra sempre rodar quando a aplicacao iniciar
+
+		@Autowired // acoplamento fraco, pelo proprio spring
+		private RepositorioUsuario auxUsuario;
+		
+		@Autowired // acoplamento fraco, pelo proprio spring
+		private RepositorioXategoria auxCategoria;
+		
+		
+		@Autowired // acoplamento fraco, pelo proprio spring
+		private RepositorioOrdemDePedido auxOrdemDePedido;
+		
+		@Override
+		public void run(String... args) throws Exception {
+
+			Categoria c1 = new Categoria(null,"Eletronicos");
+			Categoria c2 = new Categoria(null,"Livros");
+			Categoria c3 = new Categoria(null,"Computadores");
+			Categoria c4 = new Categoria(null,"Celulares");
+			
+			Usuario u1 = new Usuario (null, "Maria Brown", "maria@gmail.com", "95854365", "123456");
+			Usuario u2 = new Usuario (null, "Joao de deus", "Joao@gmail.com", "96146516", "123456");
+			
+			OrdemDePedido o1 = new OrdemDePedido(null,Instant.parse("2019-06-20T19:53:07Z"),StatusOrdemDePedido.AGUARDANDO_PAGAMENTO, u1);
+			OrdemDePedido o2 = new OrdemDePedido(null,Instant.parse("2019-07-21T19:54:18Z"),StatusOrdemDePedido.CANCELADO ,u2);
+			OrdemDePedido o3 = new OrdemDePedido(null,Instant.parse("2019-07-22T15:51:47Z"),StatusOrdemDePedido.ENVIADO,u1);	
+			OrdemDePedido o4 = new OrdemDePedido(null,Instant.parse("2019-07-25T14:52:55Z"),StatusOrdemDePedido.PAGO,u1);
+			
+			
+			auxUsuario.saveAll(Arrays.asList(u1, u2));
+			auxOrdemDePedido.saveAll(Arrays.asList(o1,o2,o3,o4));
+			auxCategoria.saveAll(Arrays,asList(c1,c2,c3,c4));
+		}
+}
