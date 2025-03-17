@@ -1,0 +1,22 @@
+package teste.teste.Servico;
+
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import teste.teste.entidade.Usuario;
+import teste.teste.repositorios.RepositorioUsuario;
+
+@Service
+
+public class ServicoUsuario {
+
+		@Autowired
+		private RepositorioUsuario repositorio;
+		
+// SERVICO NEGOCIO PRA BUSCAR TODOS OS USUARIOS
+		
+		public List<Usuario> findAll() {
+			return repositorio.findAll();
+		}
+}

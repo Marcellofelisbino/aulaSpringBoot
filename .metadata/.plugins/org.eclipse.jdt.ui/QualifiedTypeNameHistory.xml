@@ -6,6 +6,7 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="teste.teste.entidade.Usuario"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+<<<<<<< HEAD
     <fullyQualifiedTypeName name="java.time.Instant"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="teste.repositorios.RepositorioOrdemDePedido"/>
@@ -15,4 +16,8 @@
     <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+=======
+    <fullyQualifiedTypeName name="teste.teste.repositorios.RepositorioUsuario"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+>>>>>>> 24fec70 (curso java)
 </qualifiedTypeNameHistroy>

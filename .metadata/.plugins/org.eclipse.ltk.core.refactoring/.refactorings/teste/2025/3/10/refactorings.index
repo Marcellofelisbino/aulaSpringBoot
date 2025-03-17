@@ -1,6 +1,11 @@
 1741118340071	Delete element
+<<<<<<< HEAD
 1741380881865	Copy compilation unit
 1741380890012	Delete element
 1741380949383	Rename package 'teste.teste'
 1741384750686	Rename type 'Pedido'
 1741385665631	Encapsulate field 'ordens, ...'
+=======
+1741376610138	Copy compilation unit
+1741376635476	Delete element
+>>>>>>> 24fec70 (curso java)

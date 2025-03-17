@@ -2826,7 +2826,11 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 17:22:58.550
 !MESSAGE Started Boot LS process
+<<<<<<< HEAD
 !SESSION 2025-03-07 17:29:31.214 -----------------------------------------------
+=======
+!SESSION 2025-03-07 15:53:14.052 -----------------------------------------------
+>>>>>>> 24fec70 (curso java)
 eclipse.buildId=4.34.0.202502131954
 java.version=21.0.6
 java.vendor=Eclipse Adoptium
@@ -2834,6 +2838,7 @@ BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
 Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
+<<<<<<< HEAD
 !ENTRY ch.qos.logback.classic 1 0 2025-03-07 17:29:32.973
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
 
@@ -2851,6 +2856,25 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframe
 !MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-07 17:29:36.447
+=======
+!ENTRY ch.qos.logback.classic 1 0 2025-03-07 15:53:16.126
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-07 15:53:16.980
+!MESSAGE Logback config file: /home/smarcfs/Área de trabalho/aula java/SpringBootTentativa4/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-03-07 15:53:17.248
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-03-07 15:53:17.248
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-03-07 15:53:17.464
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-03-07 15:53:17.464
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-07 15:53:19.737
+>>>>>>> 24fec70 (curso java)
 !MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
 START:
 /opt/sts-4.28.1.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.6.v20250130-0529/jre/bin/java
@@ -2859,12 +2883,17 @@ START:
 -XX:TieredStopAtLevel=1
 -Dspring.config.location=classpath:/application.properties
 -Xlog:jni+resolve=off
+<<<<<<< HEAD
 -XX:ErrorFile=/home/smarcfs/Área de trabalho/aula java/SpringBootTentativa4/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1741379376447
+=======
+-XX:ErrorFile=/home/smarcfs/Área de trabalho/aula java/SpringBootTentativa4/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1741373599737
+>>>>>>> 24fec70 (curso java)
 -Dlanguageserver.hover-timeout=225
 -jar
 /opt/sts-4.28.1.RELEASE/plugins/org.springframework.tooling.boot.ls_1.60.0.202502031607/servers/spring-boot-language-server/spring-boot-language-server-1.60.0-SNAPSHOT-exec.jar
 END
 
+<<<<<<< HEAD
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 17:29:36.447
 !MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
 
@@ -3042,6 +3071,38 @@ END
 !ENTRY org.eclipse.jface 2 0 2025-03-07 19:54:13.865
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2025-03-07 19:54:13.865
+=======
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 15:53:19.738
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-07 15:53:19.746
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 8935
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 15:53:20.009
+!MESSAGE Boot project ADDED: teste
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 15:53:20.010
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 15:53:20.011
+!MESSAGE Started Boot LS process
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-03-07 16:32:08.964
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jface 2 0 2025-03-07 17:04:57.875
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-03-07 17:04:57.875
+>>>>>>> 24fec70 (curso java)
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
@@ -3059,6 +3120,7 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+<<<<<<< HEAD
 
 !ENTRY org.eclipse.ui.workbench 4 2 2025-03-07 19:56:07.838
 !MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
@@ -3422,6 +3484,9 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.core.expressions.IEva
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1454)
 !SESSION 2025-03-07 19:56:11.452 -----------------------------------------------
+=======
+!SESSION 2025-03-07 17:06:59.052 -----------------------------------------------
+>>>>>>> 24fec70 (curso java)
 eclipse.buildId=4.34.0.202502131954
 java.version=21.0.6
 java.vendor=Eclipse Adoptium
@@ -3429,6 +3494,7 @@ BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
 Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
+<<<<<<< HEAD
 !ENTRY ch.qos.logback.classic 1 0 2025-03-07 19:56:13.290
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
 
@@ -3446,6 +3512,25 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframe
 !MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-07 19:56:16.281
+=======
+!ENTRY ch.qos.logback.classic 1 0 2025-03-07 17:07:00.543
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-07 17:07:01.397
+!MESSAGE Logback config file: /home/smarcfs/Área de trabalho/aula java/SpringBootTentativa4/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-03-07 17:07:01.632
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-03-07 17:07:01.632
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-03-07 17:07:01.841
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-03-07 17:07:01.841
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-07 17:07:03.829
+>>>>>>> 24fec70 (curso java)
 !MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
 START:
 /opt/sts-4.28.1.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.6.v20250130-0529/jre/bin/java
@@ -3454,12 +3539,17 @@ START:
 -XX:TieredStopAtLevel=1
 -Dspring.config.location=classpath:/application.properties
 -Xlog:jni+resolve=off
+<<<<<<< HEAD
 -XX:ErrorFile=/home/smarcfs/Área de trabalho/aula java/SpringBootTentativa4/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1741388176281
+=======
+-XX:ErrorFile=/home/smarcfs/Área de trabalho/aula java/SpringBootTentativa4/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1741378023828
+>>>>>>> 24fec70 (curso java)
 -Dlanguageserver.hover-timeout=225
 -jar
 /opt/sts-4.28.1.RELEASE/plugins/org.springframework.tooling.boot.ls_1.60.0.202502031607/servers/spring-boot-language-server/spring-boot-language-server-1.60.0-SNAPSHOT-exec.jar
 END
 
+<<<<<<< HEAD
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 19:56:16.282
 !MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
 
@@ -3935,3 +4025,19 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+=======
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 17:07:03.829
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-07 17:07:03.837
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 12789
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 17:07:04.118
+!MESSAGE Boot project ADDED: teste
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 17:07:04.118
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-07 17:07:04.120
+!MESSAGE Started Boot LS process
+>>>>>>> 24fec70 (curso java)

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 #Sat Mar 15 17:54:54 BRT 2025
 display=\:0
 host=smarcfs-Vivobook-ASUSLaptop-X1504ZA-X1504ZA
 process-id=129829
+=======
+#Fri Mar 07 17:07:01 BRT 2025
+display=\:0
+host=smarcfs-Vivobook-ASUSLaptop-X1504ZA-X1504ZA
+process-id=12724
+>>>>>>> 24fec70 (curso java)
 user=smarcfs
