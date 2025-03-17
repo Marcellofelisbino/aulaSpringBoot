@@ -637,3 +637,214 @@
 2025-03-11 17:25:23,732 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
 2025-03-11 17:25:23,744 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2025-03-11 17:25:23,746 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:02:18,254 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:02:18,266 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:02:18,273 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:28:32,977 [Worker-39: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:28:32,990 [Worker-39: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:28:32,996 [Worker-39: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:28:56,451 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:28:56,458 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:28:56,460 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:29:12,100 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:29:12,109 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:29:12,112 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:32:03,380 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:32:03,389 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:32:03,392 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:32:52,453 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:32:52,461 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:32:52,463 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:33:32,334 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:33:32,350 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:33:32,352 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:39:43,255 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:39:43,262 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:39:43,265 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 18:40:23,549 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 18:40:23,556 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 18:40:23,559 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:16:17,972 [Worker-39: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:16:17,987 [Worker-39: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:16:17,991 [Worker-39: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:17:29,027 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:17:29,052 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:17:29,055 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:25:33,069 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:25:33,076 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:25:33,078 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:26:44,076 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:26:44,085 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:26:44,088 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:27:28,570 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:27:28,576 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:27:28,579 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:28:02,651 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:28:02,657 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:28:02,658 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:28:53,331 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:28:53,336 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:28:53,338 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:37:24,379 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:37:24,385 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:37:24,387 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:40:21,919 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:40:21,925 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:40:21,927 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:40:59,446 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:40:59,452 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:40:59,453 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:41:05,884 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:41:05,892 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:41:05,895 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:47:49,079 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:47:49,086 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:47:49,088 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:47:53,166 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:47:53,174 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:47:53,176 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:48:30,903 [Worker-39: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:48:30,930 [Worker-39: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:48:30,933 [Worker-39: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:56:00,214 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:56:00,219 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:56:00,220 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:56:28,337 [Worker-43: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:56:28,351 [Worker-43: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:56:28,354 [Worker-43: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:58:58,369 [Worker-42: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:58:58,380 [Worker-42: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:58:58,383 [Worker-42: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:59:34,110 [Worker-47: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:59:34,116 [Worker-47: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:59:34,118 [Worker-47: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 19:59:59,375 [Worker-49: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 19:59:59,382 [Worker-49: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 19:59:59,385 [Worker-49: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 20:00:46,147 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 20:00:46,154 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 20:00:46,156 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 20:01:26,372 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 20:01:26,378 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 20:01:26,381 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-12 20:04:10,562 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-12 20:04:10,573 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-12 20:04:10,576 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-14 19:32:10,546 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-14 19:32:10,559 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-14 19:32:10,568 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-14 19:43:01,839 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-14 19:43:01,852 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-14 19:43:01,856 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-14 19:52:47,263 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-14 19:52:47,274 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-14 19:52:47,278 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-14 20:22:34,681 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-14 20:22:34,692 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-14 20:22:34,698 [Worker-50: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-14 20:24:02,800 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-14 20:24:02,809 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-14 20:24:02,812 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 16:28:13,665 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 16:28:13,674 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 16:28:13,679 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 16:30:28,152 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 16:30:28,160 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 16:30:28,163 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 16:44:19,182 [Worker-149: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 16:44:19,189 [Worker-149: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 16:44:19,193 [Worker-149: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 17:05:10,416 [Worker-148: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 17:05:10,447 [Worker-148: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 17:05:10,457 [Worker-148: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 17:10:52,294 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 17:10:52,303 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 17:10:52,305 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 17:11:23,764 [Worker-144: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 17:11:23,775 [Worker-144: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 17:11:23,779 [Worker-144: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 17:12:22,547 [Worker-42: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 17:12:22,554 [Worker-42: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 17:12:22,558 [Worker-42: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 17:49:35,081 [Worker-148: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 17:49:35,088 [Worker-148: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 17:49:35,091 [Worker-148: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 17:54:46,558 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 17:54:46,572 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 17:54:46,577 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 17:54:57,655 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-15 18:00:58,285 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:00:58,317 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:00:58,324 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:01:40,616 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:01:40,626 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:01:40,630 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:09:21,557 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:09:21,564 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:09:21,566 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:13:56,402 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:13:56,417 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:13:56,419 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:14:06,957 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:14:06,963 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:14:06,965 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:19:28,025 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:19:28,035 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:19:28,038 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:19:50,833 [Worker-18: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:19:50,841 [Worker-18: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:19:50,843 [Worker-18: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:22:32,364 [Worker-20: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:22:32,375 [Worker-20: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:22:32,379 [Worker-20: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 18:45:45,926 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 18:45:46,055 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 18:45:46,056 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 19:01:06,735 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 19:01:06,743 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 19:01:06,745 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 19:02:25,938 [Worker-26: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 19:02:25,956 [Worker-26: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 19:02:25,958 [Worker-26: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 19:04:50,423 [Worker-18: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 19:04:50,435 [Worker-18: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 19:04:50,439 [Worker-18: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 19:05:30,028 [Worker-26: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 19:05:30,035 [Worker-26: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 19:05:30,037 [Worker-26: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 22:50:43,287 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 22:50:43,293 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 22:50:43,295 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 22:52:59,606 [Worker-22: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 22:52:59,615 [Worker-22: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 22:52:59,617 [Worker-22: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-15 22:59:19,411 [Worker-24: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-15 22:59:19,421 [Worker-24: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-15 22:59:19,423 [Worker-24: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:11:20,436 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:11:20,448 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:11:20,455 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:29:29,965 [Worker-20: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:29:29,975 [Worker-20: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:29:29,979 [Worker-20: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:29:58,005 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:29:58,012 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:29:58,014 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:34:04,586 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:34:04,593 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:34:04,595 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:35:44,683 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:35:44,691 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:35:44,695 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:37:46,923 [Worker-30: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:37:46,935 [Worker-30: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:37:46,939 [Worker-30: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:39:19,341 [Worker-33: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:39:19,350 [Worker-33: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:39:19,353 [Worker-33: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:40:35,575 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:40:35,603 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:40:35,606 [Worker-37: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources
+2025-03-17 15:45:44,067 [Worker-30: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-03-17 15:45:44,077 [Worker-30: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-03-17 15:45:44,079 [Worker-30: Launching teste - TesteApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/smarcfs/Área de trabalho/aula java/teste/src/test/resources

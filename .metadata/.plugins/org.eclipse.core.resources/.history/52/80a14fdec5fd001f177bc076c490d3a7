@@ -1,9 +1,0 @@
-package teste.repositorios;
-
-import org.springframework.data.jpa.repository.cdi.JpaRepository;
-
-import teste.entidade.OrdemDePedido;
-
-public class RepositorioOrdemDePedido extends JpaRepository<OrdemDePedido, Long>{
-
-}

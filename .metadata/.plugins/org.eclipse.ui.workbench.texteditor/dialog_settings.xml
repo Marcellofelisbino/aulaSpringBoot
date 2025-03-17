@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="ordemDePedidos"/>
+			<item value="servic"/>
+			<item value="servi"/>
+			<item value="statusOrdemDePedido"/>
+			<item value="pedido2"/>
+			<item value="Usuario"/>
+		</list>
+		<list key="replacehistory">
+			<item value="OrdemDePedido"/>
+		</list>
+	</section>
+</section>

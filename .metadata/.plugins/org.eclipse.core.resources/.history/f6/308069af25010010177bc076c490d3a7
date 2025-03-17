@@ -1,0 +1,5 @@
+package teste.entidade.ChavePrimariaComposta;
+
+public class ChaveItemOrdemDePedido {
+
+}
